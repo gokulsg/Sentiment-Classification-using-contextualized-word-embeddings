@@ -5,4 +5,4 @@ Static word embeddings using Bag-of-Word and TF-IDF vectors
 
 Contextualized word embeddings - BERT (Huggingface)
 
-This repository contains the keras implementation - [a link](https://github.com/gokulsg/sentimental_analysis)
+This repository contains the detailed documentation and keras implementation - [sentimental_analysis](https://github.com/gokulsg/sentimental_analysis)
